@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="subscribe page">
+
+    <test name="subscribe page">
+        <classes>
+
+<class name="TestCases.subscribePage"></class>
+        </classes>
+    </test>
+
+</suite>
